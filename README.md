@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **chibokaxavier@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Xavier/Downloads/mainResume%20(3).pdf](file:///C:/Users/Xavier/Downloads/mainResume%20(3).pdf)
-
 - ⚡ Fun fact **I have a photographic memory and can recall detailed information from books, movies, or conversations years after experiencing them.**
 
 <h3 align="left">Connect with me:</h3>
@@ -26,7 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chibokaxavier&show_icons=true&locale=en&layout=compact" alt="manlikexavy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chibokaxavieR&show_icons=true&locale=en" alt="manlikexavy" /></p>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anu)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chibokaxavieR&" alt="manlikexavy" /></p>
