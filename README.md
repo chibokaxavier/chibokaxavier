@@ -5,9 +5,8 @@
 - 👯 I’m looking to collaborate on **Fullstack projects**
 
 
-- 👨‍💻 Some of my projects are available at [https://portfolio-2-0-wine.vercel.app/](https://portfolio-2-0-wine.vercel.app/)
 
-- 📫 How to reach me **chibokaxavier@gmail.com*
+- 📫 How to reach me chibokaxavier@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
