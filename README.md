@@ -16,7 +16,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chibokaxavier&theme=tokyonight" alt="Xavier" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chibokaxavier&label=Profile%20views&color=0e75b6&style=flat" alt="xavier" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chibokaxavier&theme=tokyonight&no-frame=true&row=1&column=7" alt="Xavier" /></a> </p>
-
+[![Xavier's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chibokaxavier&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
