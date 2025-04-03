@@ -2,7 +2,7 @@
 
 
 
-- 👯 Always down to collaborate on Fullstack projects—let’s build something awesome!
+👯 Always down to collaborate on Fullstack projects—let’s build something awesome!
 
 
 
